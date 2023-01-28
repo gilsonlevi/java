@@ -1,0 +1,15 @@
+public class string001 {
+	public static void main(String[] args) {
+		
+		String texto1 = "Gilson";
+		String texto2 = "Levi";
+		String texto3 = "de Lima Alves";
+		
+		System.out.println(texto1 + " " + texto2 + " " + texto3);
+		
+		
+		
+		
+		
+	}
+}
